@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="CN-Redirect.vcxproj" Id="1c0ea385-5527-4b32-aba9-5c7c4b24eda6" />
+</Solution>
